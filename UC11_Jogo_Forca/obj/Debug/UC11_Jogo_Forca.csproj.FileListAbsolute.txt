@@ -1,0 +1,10 @@
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\bin\Debug\UC11_Jogo_Forca.exe.config
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\bin\Debug\UC11_Jogo_Forca.exe
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\bin\Debug\UC11_Jogo_Forca.pdb
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\obj\Debug\UC11_Jogo_Forca.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\obj\Debug\UC11_Jogo_Forca.Form1.resources
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\obj\Debug\UC11_Jogo_Forca.Properties.Resources.resources
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\obj\Debug\UC11_Jogo_Forca.csproj.GenerateResource.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\obj\Debug\UC11_Jogo_Forca.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\obj\Debug\UC11_Jogo_Forca.exe
+C:\Users\mateus.mbhespana\source\repos\UC11_Jogo_Forca\UC11_Jogo_Forca\obj\Debug\UC11_Jogo_Forca.pdb
